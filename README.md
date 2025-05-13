@@ -30,7 +30,7 @@ Block size (e.g., 4): Size of range blocks
 Number of iterations (e.g., 10): How many times to refine the decompressed image
 
 Performance:
-Compression is slower because it needs to search for matches
+Compression is slower because it needs to search for matches. To speed up matching when we have many large rank blocks (16x16, 32x32), i added a maximum limit on the distance of matching.
 Decompression is faster but requires multiple iterations
 The program measures and displays timing for both processes
 

@@ -35,5 +35,3 @@ Decompression is faster but requires multiple iterations
 The program measures and displays timing for both processes
 
 This is a lossy compression method, meaning the decompressed image won't be exactly the same as the original, but it should be visually similar. The quality depends on the block size and number of iterations.
-
-# Examples

@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+D:/FractalCompression/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+D:/FractalCompression/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+D:/FractalCompression/build/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule

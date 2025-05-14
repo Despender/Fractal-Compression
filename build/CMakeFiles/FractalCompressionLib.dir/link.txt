@@ -1,0 +1,2 @@
+C:\ProgramData\mingw64\mingw64\bin\ar.exe qc libFractalCompressionLib.a CMakeFiles/FractalCompressionLib.dir/src/Metrics.cpp.obj CMakeFiles/FractalCompressionLib.dir/src/BlockCompression.cpp.obj CMakeFiles/FractalCompressionLib.dir/src/AbstractCompression.cpp.obj CMakeFiles/FractalCompressionLib.dir/src/FractalFileIO.cpp.obj CMakeFiles/FractalCompressionLib.dir/src/main.cpp.obj
+C:\ProgramData\mingw64\mingw64\bin\ranlib.exe libFractalCompressionLib.a

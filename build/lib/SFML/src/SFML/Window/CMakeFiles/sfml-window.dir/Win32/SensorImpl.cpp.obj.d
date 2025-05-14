@@ -1,0 +1,35 @@
+lib/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj: \
+ D:\FractalCompression\lib\SFML\src\SFML\Window\Win32\SensorImpl.cpp \
+ D:/FractalCompression/lib/SFML/src/SFML/Window/SensorImpl.hpp \
+ D:/FractalCompression/lib/SFML/include/SFML/Config.hpp \
+ D:/FractalCompression/lib/SFML/include/SFML/Window/Sensor.hpp \
+ D:/FractalCompression/lib/SFML/include/SFML/Window/Export.hpp \
+ D:/FractalCompression/lib/SFML/include/SFML/System/Vector3.hpp \
+ D:/FractalCompression/lib/SFML/include/SFML/System/Export.hpp \
+ D:/FractalCompression/lib/SFML/include/SFML/System/Vector3.inl \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/cassert \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/pstl/pstl_config.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/assert.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/stdlib.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/cstdlib \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/c++/bits/std_abs.h \
+ D:/FractalCompression/lib/SFML/src/SFML/Window/Win32/SensorImpl.hpp

@@ -1,0 +1,1 @@
+ libFractalCompressionLib.a "lib/SFML/lib/libsfml-graphics.a" "lib/SFML/lib/libsfml-system.a" "lib/SFML/lib/libsfml-window.a" "lib/SFML/lib/libsfml-system.a" -lwinmm -lopengl32 -lgdi32 lib/SFML/lib/libfreetype.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

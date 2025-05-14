@@ -1,0 +1,14 @@
+# Target labels
+ vorbis-populate
+# Source files and their labels
+D:/FractalCompression/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate
+D:/FractalCompression/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/CMakeFiles/vorbis-populate-complete.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-build.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-configure.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-download.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-install.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-mkdir.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-patch.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-test.rule
+D:/FractalCompression/build/_deps/vorbis-subbuild/vorbis-populate-prefix/src/vorbis-populate-stamp/vorbis-populate-update.rule

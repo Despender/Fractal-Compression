@@ -1,0 +1,36 @@
+_deps/flac-build/src/libFLAC/CMakeFiles/FLAC.dir/lpc_intrin_sse2.c.obj: \
+ D:\FractalCompression\build\_deps\flac-src\src\libFLAC\lpc_intrin_sse2.c \
+ D:/FractalCompression/build/_deps/flac-build/config.h \
+ D:/FractalCompression/build/_deps/flac-src/src/libFLAC/include/private/cpu.h \
+ D:/FractalCompression/build/_deps/flac-src/include/FLAC/ordinals.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdint.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stdbool.h \
+ D:/FractalCompression/build/_deps/flac-src/src/libFLAC/include/private/lpc.h \
+ D:/FractalCompression/build/_deps/flac-src/src/libFLAC/include/private/float.h \
+ D:/FractalCompression/build/_deps/flac-src/include/FLAC/format.h \
+ D:/FractalCompression/build/_deps/flac-src/include/FLAC/export.h \
+ D:/FractalCompression/build/_deps/flac-src/include/FLAC/ordinals.h \
+ D:/FractalCompression/build/_deps/flac-src/include/FLAC/assert.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/emmintrin.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xmmintrin.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mmintrin.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
+ C:/ProgramData/mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include/errno.h \
+ D:\FractalCompression\build\_deps\flac-src\src\libFLAC\deduplication/lpc_compute_autocorrelation_intrin_sse2.c
